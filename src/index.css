@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  
+  background: linear-gradient(89deg, #f4e969 0%, #b857db 100%); /* w3c */
+}
+
+button {
+  cursor: pointer;
+}
